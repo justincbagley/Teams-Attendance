@@ -3,8 +3,7 @@ Bash script to summarize Microsoft Teams Participant attendance data
 
 > _"If you downloaded participants data to take attendance in Microsoft Teams, then you're
 > going to need this!!!"_
-> 
-<br/><br/>
+<!-- <br/><br/> -->
 
 Did you use participants data to take attendance through [Microsoft
 Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/) for your online
