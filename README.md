@@ -20,9 +20,10 @@ attendance `.csv` files of student names and meeting join/exit times), and want 
 summarize student attendance from the resulting files.
 
 Given a directory of attendance `.csv` files mentioned above for one or more sections of a
-course, and a list of student names, `teams_attendance.sh` will loop through the
-attendance files and summarize attendance records over all class meetings represented by
-the
+course, and a list of student names, `teams_attendance.sh` will summarize attendance records 
+for each student, over all class meetings represented by the `.csv` files.
+
+
 
 ## Rationale
 
@@ -62,8 +63,8 @@ cp file $HOME/local/opt ;
 
 # Usage
 
-Simply feed the script a list of student names, as follows (from help text, accessed using the 
-`-h` option flag as shown _below_):
+`teams_attendance.sh` is easy to use. Simply feed the script a list of student names, as 
+follows (from help text, accessed using the `-h` option flag as shown _below_):
 
 ```bash
 $ ./teams_attendance.sh -h
