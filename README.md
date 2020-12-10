@@ -73,11 +73,13 @@ cp file $HOME/local/opt ;
 
 # Usage
 
+Basic usage: 
+
 `teams_attendance.sh` is easy to use. Simply feed the script a list of student names, as 
 follows (from help text, accessed using the `-h` option flag as shown _below_):
 
 ```bash
-$ ./teams_attendance.sh -h
+$ ./teams_attendance.sh -h|--help
 
 Usage: chmod u+x ./teams_attendance.sh   ;	# add permissions
        ./teams_attendance.sh <namesList> ;
@@ -87,10 +89,36 @@ Usage: chmod u+x ./teams_attendance.sh   ;	# add permissions
  ... where <student_names_list> is a file containing one column of student names, given as
  'firstName lastName', delimited by a single space.
 
- Created by Justin Bagley on Wed, Apr 15 17:10:14 CDT 2020.
+ Created by Justin Bagley on Wed, Dec 9 16:11:18 CST 2020.
  Copyright (c) 2020 Justin C. Bagley. All rights reserved.
 ```
 
+Verbose usage:
+
+```bash
+$ ./teams_attendance.sh -H|--Help
+
+Usage: chmod u+x ./$(basename "$0")   ;	# add permissions
+       ./$(basename "$0") <namesList> ;
+
+ ... where <student_names_list> is a file containing one column of student names, given as
+ 'firstName lastName', delimited by a single space.
+
+ Example <namesList>:
+ 
+ Chuck Barry
+ Elivs Presley
+ Fats Domino
+
+ This program runs on UNIX-like and Linux systems using commonly distributed utility 
+ software, with usage as obtained by running the script with the -h flag. It has been 
+ tested with Perl v5.1+ on macOS Catalina (v10.13+), but should work on many other versions 
+ of macOS or Linux using standard UNIX/Linux utility software. No other dependencies are 
+ required.
+
+ Created by Justin Bagley on Wed, Dec 9 16:11:18 CST 2020.
+ Copyright (c) 2020 Justin C. Bagley. All rights reserved.
+```
 
 # LICENSE
 
