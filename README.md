@@ -34,10 +34,14 @@ I found myself at the end of my first semester as a university professor with al
 lecturing, discussions, assessment, and grading done, but with folders of 
 "Participants" attendance files exported from [Microsoft
 Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/) for each course 
-section, and no straightforward way to summarize student attendances. I also realized after 
+section, and no straightforward way to summarize student attendances. 
+
+I also realized after 
 finals week that when submitting my grades I would need to give the last date of attendance 
 and total number of hours attended for any student with a failing grade ("F", in the U.S. 
-education system) or a grade of incomplete ("I"). I wrote this software myself 
+education system) or a grade of incomplete ("I"). 
+
+I wrote this software myself 
 to provide a permanent solution to all of the above, since our university is likely to continue using Microsoft 
 Teams into the foreseeable future. 
 
