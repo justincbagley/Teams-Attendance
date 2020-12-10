@@ -36,7 +36,7 @@ to provide a permanent solution, since our university is likely to continue usin
 Teams in the foreseeable future. 
 
 _Note:_ Other tools are available for classroom attendance, including tools in the Turning 
-Point program and Teams apps like Microsoft AttendanceBot. I am husband and father and a newbie professor 
+Point program and Teams apps like Microsoft AttendanceBot. I am a husband and father and a newbie professor 
 on the tenure track. I don't need _any more_ obligations, or teaching- or technology-related 
 taks, to consume my highly-prized work time. I prefer to quickly write up my own code using 
 `Bash`, `R`, or `python` (e.g. because I don't trust other people's software and I find what 
