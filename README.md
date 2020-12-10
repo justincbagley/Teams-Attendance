@@ -82,7 +82,7 @@ Basic usage:
 `teams_attendance.sh` is easy to use. Simply feed the script a list of student names, as 
 follows (from help text, accessed using the `-h` option flag as shown _below_):
 
-`$ ./teams_attendance.sh -h|--help`...
+`$ ./teams_attendance.sh -h` or `$ ./teams_attendance.sh --help` gives the help text...
 
 ```bash
 
@@ -100,7 +100,7 @@ Usage: chmod u+x ./teams_attendance.sh   ;	# add permissions
 
 Verbose usage:
 
-`$ ./teams_attendance.sh -H|--Help`...
+`$ ./teams_attendance.sh -H` or `$ ./teams_attendance.sh --Help` gives verbose help...
 
 ```bash
 
