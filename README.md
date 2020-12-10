@@ -28,19 +28,26 @@ for each student, over all class meetings represented by the `.csv` files.
 ## Rationale
 
 I found myself at the end of my first semester as a university professor with all of my 
-lecturing, discussions, testing, and grading done, but with folders of 
+lecturing, discussions, assessment, and grading done, but with folders of 
 "Participants" attendance files exported from [Microsoft
 Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/) for each course 
-section, and no straightforward way to summarize student attendances. I wrote this myself 
-to provide a permanent solution, since our university is likely to continue using Microsoft 
-Teams in the foreseeable future. 
+section, and no straightforward way to summarize student attendances. I also realized after 
+finals week that when submitting my grades I would need to give the last date of attendance 
+and total number of hours attended for any student with a failing grade ("F", in the U.S. 
+education system) or a grade of incomplete ("I"). I wrote this software myself 
+to provide a permanent solution to all of the above, since our university is likely to continue using Microsoft 
+Teams into the foreseeable future. 
 
-_Note:_ Other tools are available for classroom attendance, including tools in the Turning 
-Point program and Teams apps like Microsoft AttendanceBot. I am a husband and father and a newbie professor 
-on the tenure track. I don't need _any more_ obligations, or teaching- or technology-related 
-taks, to consume my highly-prized work time. I prefer to quickly write up my own code using 
-`Bash`, `R`, or `python` (e.g. because I don't trust other people's software and I find what 
-I write to be fun and stable). Other people may be more satisifed with the above GUI software.
+> _Note:_ Other non-command line tools are available for classroom attendance, including tools 
+> in the Turning Point software and Teams apps (e.g. Microsoft AttendanceBot). Others may be more 
+> satisifed with the above GUI software, for example if it better fits your level of computing 
+> experience. 
+> 
+> However, I am a husband and father and a newbie professor on the tenure track. I don't need 
+> _any more_ obligations, or teaching- or technology-related taks, to consume my highly-prized 
+> work time. I prefer to quickly write up my own code using `Bash`, `R`, or `python` because I 
+> find coding to be fun and rewarding and my results to often be fairly stable (often with 
+> limited learning curve, since I nearly _always_ document my code).
 
 # Installation
 
