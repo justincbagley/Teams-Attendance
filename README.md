@@ -32,7 +32,7 @@ lecturing, discussions, testing, and grading done, but with folders of
 "Participants" attendance files exported from [Microsoft
 Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/) for each course 
 section, and no straightforward way to summarize student attendances. I wrote this myself 
-to provide a permanent solution, since I our university is likely to continue using Microsoft 
+to provide a permanent solution, since our university is likely to continue using Microsoft 
 Teams in the foreseeable future. 
 
 _Note:_ Other tools are available for classroom attendance, including tools in the Turning 
