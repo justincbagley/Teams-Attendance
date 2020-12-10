@@ -246,6 +246,8 @@ MY_STUDENT_LIST="$1"
 USAGE="
 Usage: chmod u+x ./$(basename "$0")   ;	# add permissions
        ./$(basename "$0") <namesList> ;
+       # OR
+       bash ./$(basename "$0") <namesList> ;
 
  ... where <student_names_list> is a file containing one column of student names, given as
  'firstName lastName', delimited by a single space.
@@ -257,6 +259,8 @@ Usage: chmod u+x ./$(basename "$0")   ;	# add permissions
 VERBOSE_USAGE="
 Usage: chmod u+x ./$(basename "$0")   ;	# add permissions
        ./$(basename "$0") <namesList> ;
+       # OR
+       bash ./$(basename "$0") <namesList> ;
 
  ... where <student_names_list> is a file containing one column of student names, given as
  'firstName lastName', delimited by a single space.
