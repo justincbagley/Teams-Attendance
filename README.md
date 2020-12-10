@@ -23,7 +23,10 @@ Given a directory of attendance `.csv` files mentioned above for one or more sec
 course, and a list of student names, `teams_attendance.sh` will summarize attendance records 
 for each student, over all class meetings represented by the `.csv` files.
 
-
+Results are simultaneously printed to screen and logged to a logfile named 'teams_attendance.log.txt', 
+and a final summary table is both printed to screen (and log) and saved as a table in `.txt` and 
+`.csv` formats. All output files are reorganized into an `output/` subfolder in the current working 
+directory, and the logfile is saved in `output/logs/`.
 
 ## Rationale
 
