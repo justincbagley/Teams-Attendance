@@ -2,6 +2,8 @@
 Bash script to summarize Microsoft Teams Participant attendance data
 
 <br/>
+<!-- ![microsoft-teams](https://raw.githubusercontent.com/justincbagley/Teams-Attendance/master/assets/1920px-Microsoft_Office_Teams_(2018–present).svg.png) -->
+<p align="center"><img src="/assets/1920px-Microsoft_Office_Teams_(2018–present).svg.png?raw=true"/ width="150"></p>
 
 <!-- > _"If you downloaded participants data to take attendance in Microsoft Teams, then you're
 > going to need this!!!"_
