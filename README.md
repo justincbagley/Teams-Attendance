@@ -1,6 +1,8 @@
 # Teams-Attendance
 Bash script to summarize Microsoft Teams Participant attendance data
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6ebf8b42a35f4b74a6a733312ac1d632)](https://www.codacy.com/app/justincbagley/PIrANHA?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=justincbagley/PIrANHA&amp;utm_campaign=Badge_Grade) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
 <br/>
 <!-- ![microsoft-teams](https://raw.githubusercontent.com/justincbagley/Teams-Attendance/master/assets/1920px-Microsoft_Office_Teams_(2018–present).svg.png) -->
 <p align="center"><img src="/assets/1920px-Microsoft_Office_Teams_(2018–present).svg.png?raw=true"/ width="150"></p>
