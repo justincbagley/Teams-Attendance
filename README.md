@@ -9,7 +9,9 @@ Bash script to summarize Microsoft Teams Participant attendance data
 
 Did you use participants data to take attendance through [Microsoft
 Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/) for your online
-course? If yes, then this software is for _you_.
+course? 
+
+If yes, then this software is for _you_.
 
 # Bash script to summarize Microsoft Teams attendance
 
