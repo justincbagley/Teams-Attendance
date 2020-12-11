@@ -138,3 +138,6 @@ BSD 3-clause license [here](LICENSE).
 
 Contributions are welcome!
 
+<!-- Credits 
+Microsoft Teams image from Wikipedia: https://en.wikipedia.org/wiki/Microsoft_Teams#/media/File:Microsoft_Office_Teams_(2018–present).svg (saved as PNG).
+-->
