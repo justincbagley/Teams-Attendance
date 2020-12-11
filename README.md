@@ -46,7 +46,7 @@ to provide a permanent solution to all of the above, since our university is lik
 Teams into the foreseeable future. 
 
 > _Note:_ Other non-command line tools are available for classroom attendance, including tools 
-> in the Turning Point software and Teams apps (e.g. Microsoft AttendanceBot). Others may be more 
+> in the Turning Point software and Teams apps (e.g. Microsoft [AttendanceBot](https://attendancebot.freshdesk.com/support/solutions/articles/17000101416)). Others may be more 
 > satisifed with the above GUI software, for example if it better fits your level of computing 
 > experience. 
 > 
