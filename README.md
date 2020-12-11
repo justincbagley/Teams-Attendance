@@ -17,7 +17,7 @@ course?
 
 If yes, then this software is for _you_.
 
-# Bash script to summarize Microsoft Teams attendance
+## Bash script to summarize Microsoft Teams attendance
 
 This is a `Bash` script for macOS or Linux users who taught an online course through
 [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/), took
@@ -34,7 +34,7 @@ and a final summary table is both printed to screen (and log) and saved as a tab
 `.csv` formats. All output files are reorganized into an `output/` subfolder in the current working 
 directory, and the logfile is saved in `output/logs/`.
 
-## Rationale
+### Rationale
 
 I found myself at the end of my first semester as a university professor with all of my 
 lecturing, discussions, assessment, and grading done, but with folders of 
@@ -62,7 +62,7 @@ Teams into the foreseeable future.
 > find coding to be fun and rewarding and my results to often be fairly stable (often with 
 > limited learning curve, since I nearly _always_ document my code).
 
-# Installation
+## Installation
 
 This is a `Bash` script, ready to run on many UNIX/Linux boxes, right from the start. No compilation 
 needed. Relies on Perl and other standard UNIX/Linux command line tools (e.g `sed`, `grep`). 
@@ -81,7 +81,7 @@ cp file $HOME/bin ;
 cp file $HOME/local/opt ;
 ```
 
-# Usage
+## Usage
 
 Basic usage: 
 
@@ -134,11 +134,11 @@ Usage: chmod u+x ./$(basename "$0")   ;	# add permissions
  Copyright (c) 2020 Justin C. Bagley. All rights reserved.
 ```
 
-# LICENSE
+## LICENSE
 
 BSD 3-clause license [here](LICENSE).
 
-# Contributions
+## Contributions
 
 Contributions are welcome!
 
