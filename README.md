@@ -80,9 +80,10 @@ cp file $HOME/local/opt ;
 Basic usage: 
 
 `teams_attendance.sh` is easy to use. Simply feed the script a list of student names, as 
-follows (from help text, accessed using the `-h` option flag as shown _below_):
+shown in the help texts _below_.
 
-`$ ./teams_attendance.sh -h` or `$ ./teams_attendance.sh --help` gives the help text...
+Access the regular help text using the `-h` or `--help` flags (e.g. `$ ./teams_attendance.sh -h`), 
+which output the following:
 
 ```bash
 
@@ -100,7 +101,8 @@ Usage: chmod u+x ./teams_attendance.sh   ;	# add permissions
 
 Verbose usage:
 
-`$ ./teams_attendance.sh -H` or `$ ./teams_attendance.sh --Help` gives verbose help...
+Access the verbose help text using the `-H` or `--Help` flags (e.g. `$ ./teams_attendance.sh -H`), 
+which output the following:
 
 ```bash
 
