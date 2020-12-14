@@ -79,7 +79,7 @@ needed. Relies on Perl and other standard UNIX/Linux command line tools (e.g `se
 # Install:
 brew tap justincbagley/homebrew-tap ;
 brew update ;
-brew install --HEAD teams_attendance ;
+brew install teams_attendance ;
 ```
 
 ### Install by hand
