@@ -67,8 +67,24 @@ Teams into the foreseeable future.
 This is a `Bash` script, ready to run on many UNIX/Linux boxes, right from the start. No compilation 
 needed. Relies on Perl and other standard UNIX/Linux command line tools (e.g `sed`, `grep`). 
 
-For installation, I suggest (currently):
+### Homebrew install
 
+[See here.](https://github.com/justincbagley/homebrew-tap)
+
+**Recommended:**
+
+1. Development (cutting edge) Homebrew install:
+
+```bash
+# Install:
+brew tap justincbagley/homebrew-tap ;
+brew update ;
+brew install --HEAD teams_attendance ;
+```
+
+### Install by hand
+
+2.  Installation 'by-hand' from terminal:
 ```
 # macOS:
 chmod u+x ./teams_attendance.sh ;
