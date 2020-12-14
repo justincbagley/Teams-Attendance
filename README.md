@@ -58,9 +58,9 @@ Teams into the foreseeable future.
 > 
 > However, I am a husband and father and a newbie professor on the tenure track. I don't need 
 > _any more_ obligations, or teaching- or technology-related taks, to consume my highly-prized 
-> work time. I prefer to quickly write up my own code using `Bash`, `R`, or `python` because I 
-> find coding to be fun and rewarding and my results to often be fairly stable (often with 
-> limited learning curve, since I nearly _always_ document my code).
+> work time. I prefer to quickly write up my own CLI software code ([see here](https://gist.github.com/justincbagley/95cfaf9601b4af6f3afa93b4d2155abb)) using `Bash`, `R`, or `python` because I 
+> find coding to be fun and rewarding and my results to often be stable (with 
+> limited learning curve, since I _always_ document my code).
 
 ## Installation
 
