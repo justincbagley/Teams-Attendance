@@ -82,6 +82,15 @@ brew update ;
 brew install teams_attendance ;
 ```
 
+Or, if later commits added post-release, then get the cutting-edge development version with:
+
+```bash
+# Install:
+brew tap justincbagley/homebrew-tap ;
+brew update ;
+brew install --HEAD teams_attendance ;
+```
+
 ### Install by hand
 
 2.  Installation 'by-hand' from terminal:
@@ -95,6 +104,16 @@ chmod u+x ./teams_attendance.sh ;
 cp file $HOME/bin ;
 # OR
 cp file $HOME/local/opt ;
+```
+
+### Homebrew upgrade
+
+Upgrading with Homebrew later (after initial Homebrew install) is slightly different, FYI...
+
+```bash
+# Install:
+brew update ;
+brew upgrade --fetch-HEAD teams_attendance ;
 ```
 
 ## Usage
