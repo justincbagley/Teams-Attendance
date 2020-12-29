@@ -4,7 +4,7 @@
    VERSION="v1.0.0" 
 ## Author: Dr. Justin C. Bagley
 ## Created: Wed Dec 9 16:11:18 CST 2020
-## Last updated: December 10, 2020
+## Last updated: December 29, 2020
 ## 
 ## Checks and summarizes student attendances in .CSV attendance files exported from Microsoft 
 ## Teams app, also attempts to identify date of last attendance (or at least provide information
@@ -25,7 +25,6 @@ echo "--------------------------------------------------------------------------
 	echo "INFO      | $(date) | Starting teams_attendance analysis... "
 	echo "INFO      | $(date) | Current working directory: "
 	echo "INFO      | $(date) | $PWD "
-	echo "INFO      | $(date) | Student list: ${MY_STUDENT_LIST}"
 	echo "INFO      | $(date) | Student list: ${MY_STUDENT_LIST}"
 	
 	####### SET LOG FILE:
