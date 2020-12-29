@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 ## Program: teams_attendance.sh
-   VERSION="v1.0.0" 
+   VERSION="v0.1.0" 
 ## Author: Dr. Justin C. Bagley
 ## Created: Wed Dec 9 16:11:18 CST 2020
 ## Last updated: December 29, 2020
@@ -14,7 +14,7 @@ teams_attendance () {
 
 ######################################## START ###########################################
 echo "
-teams_attendance v1.0.0, December 2020 (updated Dec 10 08:44:11 CST 2020)                                       "
+teams_attendance v0.1.0, December 2020 (updated Dec 10 08:44:11 CST 2020)                                       "
 echo "Copyright (c) 2020 Justin C. Bagley. All rights reserved.                                                 "
 echo "----------------------------------------------------------------------------------------------------------"
 
