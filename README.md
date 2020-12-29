@@ -73,7 +73,7 @@ needed. Relies on Perl and other standard UNIX/Linux command line tools (e.g `se
 
 **Recommended:**
 
-1. Development (cutting edge) Homebrew install:
+1. Homebrew install:
 
 ```bash
 # Install:
